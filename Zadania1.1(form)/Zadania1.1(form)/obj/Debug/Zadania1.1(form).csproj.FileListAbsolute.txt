@@ -1,0 +1,11 @@
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\1 задание\Zadania1.1(form)\Zadania1.1(form)\bin\Debug\Zadania1.1(form).exe.config
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\1 задание\Zadania1.1(form)\Zadania1.1(form)\bin\Debug\Zadania1.1(form).exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\1 задание\Zadania1.1(form)\Zadania1.1(form)\bin\Debug\Zadania1.1(form).pdb
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\1 задание\Zadania1.1(form)\Zadania1.1(form)\obj\Debug\Zadania1.1(form).csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\1 задание\Zadania1.1(form)\Zadania1.1(form)\obj\Debug\Zadania1.1(form).csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\1 задание\Zadania1.1(form)\Zadania1.1(form)\obj\Debug\Zadania1._1_form_.Form1.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\1 задание\Zadania1.1(form)\Zadania1.1(form)\obj\Debug\Zadania1._1_form_.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\1 задание\Zadania1.1(form)\Zadania1.1(form)\obj\Debug\Zadania1.1(form).csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\1 задание\Zadania1.1(form)\Zadania1.1(form)\obj\Debug\Zadania1.1(form).csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\1 задание\Zadania1.1(form)\Zadania1.1(form)\obj\Debug\Zadania1.1(form).exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\1 задание\Zadania1.1(form)\Zadania1.1(form)\obj\Debug\Zadania1.1(form).pdb
